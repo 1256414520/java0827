@@ -2,6 +2,12 @@ class Test{
     public static void main(String[] args) {
         System.out.println("Hello Word");
          System.out.println("Test agin");
+         System.out.println("Test agin");
+         System.out.println("Test agin");
+         System.out.println("Test agin");
+         System.out.println("Test agin");
+         System.out.println("Test agin");
+         System.out.println("Test agin");
         
     }
 }
